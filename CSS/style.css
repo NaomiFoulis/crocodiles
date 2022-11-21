@@ -35,7 +35,7 @@ h1, h2 {
 }
 
 h1 {
-    font-size: 4rem;
+    font-size: 4.35rem;
     margin-top:5rem;
     padding-bottom: 0;
 }
@@ -47,8 +47,9 @@ h2 {
 
 blockquote {
     font-style: italic;
-    font-size: 1.999rem;
-    color:rgb(109, 184, 144);
+    margin-top:2rem;
+    font-size: 1.5rem;
+    color:rgb(80, 164, 119);
     hanging-punctuation: first;
     text-indent: -0.7rem;
 }
