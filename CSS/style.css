@@ -31,7 +31,7 @@ p, blockquote {
 }
 
 h1, h2 {
-    color:rgb(74, 176, 122);
+    color:rgb(109, 184, 144);
 }
 
 h1 {
@@ -48,7 +48,7 @@ h2 {
 blockquote {
     font-style: italic;
     font-size: 1.999rem;
-    color:rgb(74, 176, 122);
+    color:rgb(109, 184, 144);
     hanging-punctuation: first;
     text-indent: -0.7rem;
 }
@@ -62,7 +62,7 @@ blockquote cite {
 /*-- Styling Links --*/
 
 a {
-    color:rgb(74, 176, 122);
+    color:rgb(109, 184, 144);
     text-decoration: none;
 }
 
@@ -79,7 +79,7 @@ nav {
     left: 0;
     margin: 0;
     width: 100%;
-    background-color:rgb(74, 176, 122);
+    background-color:rgb(109, 184, 144);
     padding: 1.5rem 0;
     font-size: 0.75rem;
 }
@@ -100,7 +100,7 @@ nav a {color: whitesmoke}
 
 nav a:hover {
     border-bottom: none;
-    color:rgb(130, 247, 184);
+    color:rgb(109, 184, 144);
     transition: all 0.5s ease-in-out;
 }
 
