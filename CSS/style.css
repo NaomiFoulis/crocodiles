@@ -112,3 +112,9 @@ footer {
     font-size: 0.8rem;
     padding-bottom: 4rem;
 }
+
+.gridimage {
+    display: grid;
+    column-gap: 10px;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+}
